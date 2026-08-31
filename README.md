@@ -1,4 +1,4 @@
 # GCKit - Global Compiler Kit
->Lazy is the engine of progress.<
+>Lazy is the engine of progress.
 
 Just does what told
