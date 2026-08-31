@@ -1,2 +1,4 @@
-# openux-gckit
-GCKit - Global Compiler Kit
+# GCKit - Global Compiler Kit
+>Lazy is the engine of progress.
+
+DEV BRANCH!! joke lol.
